@@ -59,3 +59,17 @@ Apply NLP-based sentiment analysis
 Build predictive engagement model
 
 Create dashboard visualization
+
+
+
+## 📂 Repository Structure
+
+- social_media_engagement_analysis.ipynb → Main analysis notebook  
+- README.md → Project overview and documentation  
+- LICENSE → MIT License  
+
+## 📌 How to Run
+
+1. Clone the repository  
+2. Open the notebook in Jupyter  
+3. Run all cells to reproduce the analysis  
